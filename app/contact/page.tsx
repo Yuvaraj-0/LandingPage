@@ -18,13 +18,7 @@ const  LampDemo = () => {
         className="mt-8 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
       >
         <div className="w-[400] h-[200px] translate-x-[500px] translate-y-[400px]  rounded-xl overflow-hidden shadow-lg">
-        <iframe
-  src="https://www.google.com/maps/embed?..."
-  style={{ border: 0 }}
-  allowFullScreen
-  loading="lazy"
-  referrerPolicy="no-referrer-when-downgrade"
-></iframe>
+      
 
 </div>
       </motion.h1>
