@@ -161,7 +161,7 @@ const page = () => {
       <InfiniteMovingCards
         items={testimonials}
         direction="right"
-        speed="speed"
+        speed="normal"
       />
     </div>
     <div className="flex justify-items-center items-center flex-row mt-20 space-x-7">
