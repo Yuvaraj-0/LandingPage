@@ -69,7 +69,7 @@ const Navbar =() => {
     },
   ];
   return (
-    <div className="fixed top-0 left-0 translate-y-15 translate-x-150 shadow-md z-[9999]">
+    <div className="fixed flex justify-center items-center  top-0 left-0 translate-y-15 translate-x-150 shadow-md z-[9999]">
       <FloatingDock
         mobileClassName="translate-y-20" // only for demo, remove for production
         items={links}
