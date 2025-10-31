@@ -5,7 +5,7 @@ import Facility from './facilities/page'
 import Contact from './contact/page'
 import Servicies from './services/page'
 import Client from './clients/page'
-import Navbar from './components/Navbar'
+
 const page = () => {
   return (
     <div>

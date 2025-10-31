@@ -75,7 +75,7 @@ const Page = () => {
     as="button"
     className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-4 px-8 py-4 text-xl font-semibold"
   >
-    <AceternityLogo className="w-8 h-8" />
+    
     <span>Take you move</span>
   </HoverBorderGradient>
 </div>
