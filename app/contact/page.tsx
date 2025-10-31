@@ -35,6 +35,14 @@ const  LampDemo = () => {
       >
         Contact us
       </motion.h1>
+      <iframe
+  src="https://www.google.com/maps/embed?..."
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+></iframe>
+
     </LampContainer>
   );
 }
